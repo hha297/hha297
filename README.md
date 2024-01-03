@@ -30,9 +30,9 @@ Some of my projects are:
 ### 📊 Stats
 
 <!-- Stats cards  -->
-<img align='left' width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hh297&layout=compact&count_private=true&theme=radical'/>
+<img align='left' width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hha297&layout=compact&count_private=true&theme=radical'/>
 
-<img align='left' width='47%'  src='https://github-readme-stats.vercel.app/api?username=hh297&hide=contribs&count_private=true&theme=radical&show_icons=true&rank_icon=github'/>
+<img align='left' width='47%'  src='https://github-readme-stats.vercel.app/api?username=hha297&hide=contribs&count_private=true&theme=radical&show_icons=true&rank_icon=github'/>
 
 <!--
 **Dang Hoang Ha* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
