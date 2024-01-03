@@ -2,11 +2,15 @@
 
 # 🕺 Dang Hoang Ha
 
-**`Front End Web Developer`**
+## I'm a Student, Developer!
 
-I am a front-end web developer with experience in various technologies. I recently completed my first year of study in Information Technology at Oulu University of Applied Sciences (OAMK). Currently, I am focused on learning Nodejs and ExpressJs to further enhance my skill set.
 
-Some of my projects are:
+- 👨‍🏫 I'm currently learning [NodeJS](https://nodejs.org/docs/latest/api/)
+- 👯‍♂️ I'm looking to collaborate with other developers
+- 🥅 Closest goals: Find front-end job, get internship
+
+
+## Some of my projects:
 
 - **[OAMK's Project - Postman Express](https://github.com/QuirkoTech/PostmanExpress)**
 - **[Monkey Blog](https://github.com/hha297/monkey-blog)**
