@@ -6,8 +6,8 @@
 
 
 - 👨‍🏫 I'm currently learning [NodeJS](https://nodejs.org/docs/latest/api/)
-- 👯‍♂️ I'm looking to collaborate with other developers
-- 🥅 Closest goals: Find front-end job, get internship
+- 👯‍♂️ I'm looking forward to collaborate with other developers
+- 🥅 Closest goals: Get Internship - Find Front-End Jobs
 
 
 ## Some of my projects:
