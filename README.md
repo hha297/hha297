@@ -18,7 +18,7 @@
 
 ---
 
-## 🖥️ Languages and Tools (Categorize language proficiency and frequency of use from right to left.)
+## 🖥️ Languages and Tools
 
 <!-- Languages and tools badges -->
 #### 📋 Languages
