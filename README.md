@@ -68,7 +68,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 💬 Social
-![Facebook](https://www.facebook.com/hha.2907))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hha.2907/)
+
 
 ### 📊 Stats
 
