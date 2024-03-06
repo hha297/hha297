@@ -5,7 +5,7 @@
 ## I'm a Student, Developer!
 
 
-- 👨‍🏫 I'm currently learning [NodeJS](https://nodejs.org/docs/latest/api/)
+- 👨‍🏫 I'm currently learning [NodeJS](https://nodejs.org/docs/latest/api/) and [Kotlin](https://kotlinlang.org/docs/getting-started.html)
 - 👯‍♂️ I'm looking forward to collaborate with other developers
 - 🥅 Closest goals: Get Internship - Find Front-End Jobs
 
