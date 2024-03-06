@@ -32,11 +32,11 @@
 
 #### 📚 Frameworks, Platforms and Libraries
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![TailwindCss](https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss)
-![Sass](https://img.shields.io/badge/sass-%23316192.svg?style=for-the-badge&logo=sass&)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCss](https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/sass-%23316192.svg?style=for-the-badge&logo=sass&)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 #### 💾 Databases
