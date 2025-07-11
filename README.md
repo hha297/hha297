@@ -7,15 +7,14 @@
 
 - 👨‍🏫 I'm currently learning [NodeJS](https://nodejs.org/docs/latest/api/) and [Kotlin](https://kotlinlang.org/docs/getting-started.html)
 - 👯‍♂️ I'm looking forward to collaborate with other developers
-- 🥅 Closest goals: Get Internship - Find Front-End Jobs
 
 
 ## Some of my projects:
-- **[Twitter Clone](https://github.com/hha297/twitter-clone)**
-- **[OAMK's Project - Blaugrana Furniture](https://github.com/Die-SonnenKinder/Blaugrana_Furniture)**
-- **[Snapshot](https://github.com/hha297/Snapshot)**
-- **[Monkey Blog](https://github.com/hha297/monkey-blog)**
-- **[Movie](https://github.com/hha297/reactjs-movie)**
+- **[Meet AI](https://github.com/hha297/Meet.ai)**
+- **[Docs Editor](https://github.com/hha297/Docs-Editor)**
+- **[Slack](https://github.com/hha297/Slack)**
+- **[Jira](https://github.com/hha297/Jira-Clone)**
+- **[Funroad](https://github.com/hha297/Funroad)**
 
 ---
 
@@ -41,10 +40,10 @@
 
 #### 💾 Databases
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 #### 🕓 Version Control
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -61,9 +60,9 @@
 
 #### 🎨 Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
 #### 💬 Social
@@ -76,9 +75,9 @@
 #### 📊 Stats
 
 <!-- Stats cards  -->
-<img align='left' width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hha297&layout=compact&count_private=true&theme=radical'/>
+<img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hha297&layout=compact&count_private=true&theme=radical'/>
 
-<img align='left' width='45%'  src='https://github-readme-stats.vercel.app/api?username=hha297&hide=contribs&count_private=true&theme=radical&show_icons=true&rank_icon=github'/>
+<img align='right' width='48%'  src='https://github-readme-stats.vercel.app/api?username=hha297&hide=contribs&count_private=true&theme=radical&show_icons=true&rank_icon=github'/>
 
 <!--
 **Dang Hoang Ha* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
