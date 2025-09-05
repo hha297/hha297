@@ -4,14 +4,14 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Dang+Hoang+Ha!;+I'm+a+Student,+Developer!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Ha+Dang!;+I'm+a+Student,+Developer!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Dang Hoang Ha - Software Developer based in Finland.
+  Hi, I'm Ha Dang - Software Developer based in Finland.
   
   <br />
   🎓 I'm currently a university student.  
@@ -129,7 +129,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hha297&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hha297&theme=github_dark&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hha297&theme=github_dark&utcOffset=2" />
 </p>
 
 <hr />
