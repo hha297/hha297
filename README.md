@@ -4,28 +4,23 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Ha+Dang!;+I'm+a+Student,+Developer!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Ha+Dang!;+I'm+a+Sofware+Developer+based+in+Finland!;&center=true&font=Righteous&size=20">
   </a>
 </h1>
 
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Ha Dang - Software Developer based in Finland.
-  
-  <br />
-  🎓 I'm currently a university student.  
-  <br />
-  💻 I love building projects with new technologies and frameworks.  
-  <br />
-  👯 I’m looking forward to collaborate with other developers.  
-  <br />
+I'm Dang Hoang Ha
+<br/>
+I'm a software developer based in Finland with experience in JavaScript, TypeScript and frameworks like React, Node.js, and Next.js. I have a strong passion for building interactive, high-performance applications and enjoy tackling complex technical challenges.
 </p>
 
 <!-- social handles -->
+
 <div align="center"> 
   <!-- portfolio -->
-  <a href="https://www.danghoangha.com/" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://www.danghoangha.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <!-- facebook -->
   <a href="https://www.facebook.com/hha.2907/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <!-- instagram -->
