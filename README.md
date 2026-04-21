@@ -127,48 +127,6 @@ I'm a software developer based in Finland with experience in JavaScript, TypeScr
 
 <hr />
 
-<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/hha297/Meet.ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hha297&repo=Meet.ai&theme=react&border_radius=10" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mindspace-tech/Mindspace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mindspace-tech&repo=Mindspace&theme=react&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hha297/Funroad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hha297&repo=Funroad&theme=react&border_radius=10" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hha297/Docs-Editor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hha297&repo=Docs-Editor&theme=react&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hha297/Slack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hha297&repo=Slack&theme=react&border_radius=10" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hha297/Jira-Clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hha297&repo=Jira-Clone&theme=react&border_radius=10" />
-      </a>
-    </td>
-  </tr>
-  
-</table>
-
 <h4 align="center">
   <a href="https://github.com/hha297?tab=repositories">🔎 Show More 🔍</a>
 </h4>
