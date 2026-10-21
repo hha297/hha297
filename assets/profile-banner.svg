@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ha Dang — Software Developer</title>
+<desc id="desc">Software developer based in Finland. Web, mobile, and thoughtful digital experiences. Navy banner with violet and cyan geometric accents.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11182e"/><stop offset="1" stop-color="#16132d"/></linearGradient>
+<linearGradient id="accent" x2="1" y2=".6"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1125" cy="25" r="220" fill="#7c3aed" opacity=".12"/>
+<circle cx="1150" cy="330" r="190" fill="#06b6d4" opacity=".08"/>
+<rect x="60" y="56" width="202" height="30" rx="15" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".3"/>
+<circle cx="78" cy="71" r="4" fill="#67e8f9"/>
+<text x="92" y="76" fill="#c4b5fd" font-family="Verdana,Arial,sans-serif" font-size="11" letter-spacing="2">SOFTWARE DEVELOPER</text>
+<text x="56" y="170" fill="#f8fafc" font-family="Verdana,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="-3">Ha Dang<tspan fill="#67e8f9">.</tspan></text>
+<text x="60" y="217" fill="#cbd5e1" font-family="Verdana,Arial,sans-serif" font-size="20">Building useful products with thoughtful interfaces.</text>
+<rect x="60" y="255" width="42" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="116" y="262" fill="#94a3b8" font-family="Verdana,Arial,sans-serif" font-size="13" letter-spacing="2">FINLAND / WEB / MOBILE</text>
+<g transform="translate(855 82)">
+<rect width="266" height="196" rx="18" fill="#0b1224" stroke="#6675ad" stroke-opacity=".35"/>
+<path d="M0 42H266" stroke="#6675ad" stroke-opacity=".25"/>
+<circle cx="22" cy="22" r="4" fill="#a78bfa"/><circle cx="38" cy="22" r="4" fill="#67e8f9"/><circle cx="54" cy="22" r="4" fill="#475569"/>
+<path d="M67 86L36 116L67 146M199 86L230 116L199 146M150 74L116 160" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M60 320H1140" stroke="url(#accent)" stroke-opacity=".25"/>
+</svg>
