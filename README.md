@@ -1,132 +1,154 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=hha297">
-
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Ha+Dang!;+I'm+a+Sofware+Developer+based+in+Finland!;&center=true&font=Righteous&size=20">
-  </a>
-</h1>
-
-<br />
-<!-- about me -->
+<!-- Custom banner lives in this repository; no external banner service required. -->
 <p align="center">
-I'm Dang Hoang Ha
-<br/>
-I'm a software developer based in Finland with experience in JavaScript, TypeScript and frameworks like React, Node.js, and Next.js. I have a strong passion for building interactive, high-performance applications and enjoy tackling complex technical challenges.
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ha Dang — Software developer based in Finland. Web, mobile, and thoughtful digital experiences." />
 </p>
 
-<!-- social handles -->
+<h1 align="center">Hi, I'm Ha 👋</h1>
 
-<div align="center"> 
-  <!-- portfolio -->
-  <a href="https://www.danghoangha.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-  <!-- facebook -->
-  <a href="https://www.facebook.com/hha.2907/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <!-- instagram -->
-  <a href="https://www.instagram.com/hha.297/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <!-- gmail -->
-  <a href="mailto:ha.dh290702@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/hha297/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
-  <!-- whatsapp -->
-  <a href="https://wa.me/358466522707" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+<p align="center">
+  <strong>Software developer · Based in Finland</strong><br />
+  I build web and mobile applications with TypeScript, React, Next.js, and Node.js.<br />
+  I enjoy connecting thoughtful design with the engineering that makes a product work.
+</p>
 
-<hr />
+<p align="center">
+  <a href="https://www.danghoangha.com/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Visit my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hha297/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ha.dh290702@gmail.com"><img src="https://img.shields.io/badge/Email-67E8F9?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email Ha" /></a>
+</p>
 
-## 🖥️ Languages and Tools
+<p align="center">
+  <a href="#selected-projects">Selected projects</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
+  <a href="#github-activity">GitHub activity</a>
+</p>
 
-### 📋 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-639?logo=css&style=for-the-badge&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+---
 
-### 📚 Frameworks, Platforms and Libraries
-![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCss](https://img.shields.io/badge/tailwindcss-0F172A?&style=for-the-badge&logo=tailwindcss)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000)
-![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+## A little about me
 
-### 💾 Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+I'm **Dang Hoang Ha**, a software developer based in Finland. My work spans interactive interfaces, backend services, and mobile experiences.
 
-### 🕓 Version Control
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+- **Web:** React and Next.js applications with TypeScript, reusable UI, and responsive layouts.
+- **Backend:** Node.js, APIs, authentication, and database-backed features.
+- **Mobile:** React Native and Expo applications.
+- **Craft:** Clear interfaces, maintainable code, and attention to the details people interact with.
 
-### ☁️ Hosting/SaaS
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+## Selected projects
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <h3>01 / Notoria</h3>
+      <p>A private language-learning workspace that brings vocabulary, grammar notes, writing, and practice together.</p>
+      <p><sub>Next.js · TypeScript · PostgreSQL · Drizzle · Stripe</sub></p>
+      <p><a href="https://www.notoria.fi">Visit website ↗</a> &nbsp;·&nbsp; <a href="https://github.com/hha297/Notoria">Explore code →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>02 / Calio</h3>
+      <p>A mobile app for tracking food, calories, workouts, goals, and progress.</p>
+      <p><sub>React Native · Expo · Supabase · TanStack Query</sub></p>
+      <p><a href="https://github.com/hha297/Calio">Explore code →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>03 / Docs Editor</h3>
+      <p>A collaborative document editor with rich text, live cursors, comments, and organization workspaces.</p>
+      <p><sub>Next.js · TypeScript · TipTap · Convex · Liveblocks</sub></p>
+      <p><a href="https://github.com/hha297/Docs-Editor">Explore code →</a></p>
+    </td>
+  </tr>
+</table>
 
-<hr />
+<p align="right"><a href="https://github.com/hha297?tab=repositories">Browse all repositories →</a></p>
 
-<!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=hha297&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=hha297&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=hha297&theme=default&border=61dafb" alt="hha297's streak stats" />
-      </picture>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hha297&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hha297&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hha297&show_icons=true&theme=default&border_color=61dafb" alt="hha297's github stats" />
-      </picture>
-    </a>
-  </div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+## Tech stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-182238?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-182238?style=for-the-badge&logo=javascript&logoColor=FACC15)
+![HTML5](https://img.shields.io/badge/HTML5-182238?style=for-the-badge&logo=html5&logoColor=FB923C)
+![CSS](https://img.shields.io/badge/CSS-182238?style=for-the-badge&logo=css&logoColor=A78BFA)
+![Kotlin](https://img.shields.io/badge/Kotlin-182238?style=for-the-badge&logo=kotlin&logoColor=C4B5FD)
+
+### Frontend & mobile
+
+![React](https://img.shields.io/badge/React-182238?style=for-the-badge&logo=react&logoColor=67E8F9)
+![Next.js](https://img.shields.io/badge/Next.js-182238?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![React Native](https://img.shields.io/badge/React%20Native-182238?style=for-the-badge&logo=react&logoColor=67E8F9)
+![Expo](https://img.shields.io/badge/Expo-182238?style=for-the-badge&logo=expo&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-182238?style=for-the-badge&logo=tailwindcss&logoColor=67E8F9)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-182238?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/Redux-182238?style=for-the-badge&logo=redux&logoColor=C4B5FD)
+
+### Backend & data
+
+![Node.js](https://img.shields.io/badge/Node.js-182238?style=for-the-badge&logo=nodedotjs&logoColor=86EFAC)
+![Express](https://img.shields.io/badge/Express-182238?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![tRPC](https://img.shields.io/badge/tRPC-182238?style=for-the-badge&logo=trpc&logoColor=60A5FA)
+![Drizzle](https://img.shields.io/badge/Drizzle-182238?style=for-the-badge&logo=drizzle&logoColor=BEF264)
+![Prisma](https://img.shields.io/badge/Prisma-182238?style=for-the-badge&logo=prisma&logoColor=C4B5FD)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-182238?style=for-the-badge&logo=postgresql&logoColor=93C5FD)
+![MongoDB](https://img.shields.io/badge/MongoDB-182238?style=for-the-badge&logo=mongodb&logoColor=86EFAC)
+![MySQL](https://img.shields.io/badge/MySQL-182238?style=for-the-badge&logo=mysql&logoColor=FDBA74)
+![Supabase](https://img.shields.io/badge/Supabase-182238?style=for-the-badge&logo=supabase&logoColor=6EE7B7)
+![Firebase](https://img.shields.io/badge/Firebase-182238?style=for-the-badge&logo=firebase&logoColor=FCD34D)
+
+### Workflow & deployment
+
+![Git](https://img.shields.io/badge/Git-182238?style=for-the-badge&logo=git&logoColor=FB923C)
+![GitHub](https://img.shields.io/badge/GitHub-182238?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-182238?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
+![Vercel](https://img.shields.io/badge/Vercel-182238?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+
+### Design & creative
+
+![Figma](https://img.shields.io/badge/Figma-182238?style=for-the-badge&logo=figma&logoColor=C4B5FD)
+![Photoshop](https://img.shields.io/badge/Photoshop-182238?style=for-the-badge&logo=adobephotoshop&logoColor=60A5FA)
+![Illustrator](https://img.shields.io/badge/Illustrator-182238?style=for-the-badge&logo=adobeillustrator&logoColor=FDBA74)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-182238?style=for-the-badge&logo=adobepremierepro&logoColor=C4B5FD)
+
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hha297&bg_color=0d1117&color=a78bfa&line=67e8f9&point=c4b5fd&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hha297&bg_color=ffffff&color=6d28d9&line=0891b2&point=7c3aed&area=true&hide_border=true" alt="Ha's GitHub contribution activity graph" loading="lazy" />
+  </picture>
+</p>
+
+<details>
+  <summary>More GitHub stats</summary>
+  <br />
+  <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hha297&theme=react-dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hha297&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hha297&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="hha297's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hha297&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hha297&theme=github" alt="GitHub repository and contribution statistics" loading="lazy" />
     </picture>
-  </a>
-</p>
+  </p>
+</details>
 
-<hr />
+---
 
-<h2 align="center">📈 Contribution Stats 📈</h2>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hha297&theme=github_dark" />
-</p>
+<h3 align="center">Let's build something useful.</h3>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hha297&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hha297&theme=github_dark&utcOffset=2" />
+  Have a project in mind or want to talk about development?<br />
+  <a href="mailto:ha.dh290702@gmail.com">Get in touch</a> &nbsp;·&nbsp;
+  <a href="https://www.danghoangha.com/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/hha297/">LinkedIn</a>
 </p>
 
-<hr />
+<p align="center">
+  <a href="https://www.facebook.com/hha.2907/">Facebook</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/hha.297/">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/358466522707">WhatsApp</a>
+</p>
 
-<h4 align="center">
-  <a href="https://github.com/hha297?tab=repositories">🔎 Show More 🔍</a>
-</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hha297&style=flat-square&color=8b5cf6&label=Profile+views" alt="Profile view counter" />
+</p>
